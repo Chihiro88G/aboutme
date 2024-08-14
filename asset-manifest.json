@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.c7ec3132.css",
-    "main.js": "/static/js/main.cf048c11.js",
+    "main.js": "/static/js/main.9ee3fff7.js",
     "static/media/Gradient-Background.png": "/static/media/Gradient-Background.9fbc6e6a4fb54eb947ee.png",
     "index.html": "/index.html",
     "main.c7ec3132.css.map": "/static/css/main.c7ec3132.css.map",
-    "main.cf048c11.js.map": "/static/js/main.cf048c11.js.map"
+    "main.9ee3fff7.js.map": "/static/js/main.9ee3fff7.js.map"
   },
   "entrypoints": [
     "static/css/main.c7ec3132.css",
-    "static/js/main.cf048c11.js"
+    "static/js/main.9ee3fff7.js"
   ]
 }

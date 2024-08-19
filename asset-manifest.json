@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/aboutme/static/css/main.c7ec3132.css",
-    "main.js": "/aboutme/static/js/main.878c2cda.js",
+    "main.js": "/aboutme/static/js/main.b23d8471.js",
+    "static/media/me.png": "/aboutme/static/media/me.e996d70df148db0da443.png",
     "static/media/Gradient-Background.png": "/aboutme/static/media/Gradient-Background.9fbc6e6a4fb54eb947ee.png",
     "index.html": "/aboutme/index.html",
     "main.c7ec3132.css.map": "/aboutme/static/css/main.c7ec3132.css.map",
-    "main.878c2cda.js.map": "/aboutme/static/js/main.878c2cda.js.map"
+    "main.b23d8471.js.map": "/aboutme/static/js/main.b23d8471.js.map"
   },
   "entrypoints": [
     "static/css/main.c7ec3132.css",
-    "static/js/main.878c2cda.js"
+    "static/js/main.b23d8471.js"
   ]
 }
